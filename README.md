@@ -1,2 +1,3 @@
 # Face-detection-and-recognition
-Using the eigenface approach
+In this project we are presenting a method to detect and identify the human faces and developing a system which recognizes a face of a person from the given trained dataset. Our methodology of recognition system is based on the two dimensional face extraction. Eigenface approach is used to identify a face. Eigenvectors of the civariance matrix are obtained corresponding to the highest 30 eigenvalues and projected on a face space. These projected vectors are called as Eigenface which need not to resemble the exact face features, for e.g., eyes, nose, ears, etc. 
+This system provides the capabilty to recognize the new faces in unsupervised manner and can be applicable in many real life problems.
